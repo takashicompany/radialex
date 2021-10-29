@@ -1,5 +1,9 @@
 # Radialex
 
-曲線状のキー配置と、中央のシンボル的なキーが特徴の40%キーボードです。
+40%サイズのキーボードです。
+放射状のキーレイアウトは手を自然な体勢のまま置くことが可能で、指を最短距離で動かすことで文字を打つことが可能です。
+キーボードの中央部にはあなたの象徴となるキーやキーキャップを配置することができます。
+LEDのバックライトで輝かせること可能です。
+また、MXソケットによるキースイッチの付替えも可能です。
 
-![IMG_8331](https://user-images.githubusercontent.com/4215759/138691680-e5e234fb-8b61-4e13-8ae2-b85f76beaf33.jpg)
+![qmk](https://github.com/takashicompany/radialex/blob/master/images/qmk.jpg?raw=true)
