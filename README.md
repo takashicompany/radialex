@@ -8,7 +8,7 @@ LEDのバックライトで輝かせること可能です。
 
 ![qmk](https://github.com/takashicompany/radialex/blob/master/images/qmk.jpg?raw=true)
 
-# 組みてた方
+## 組みてた方
 
 ### 1. PCBの表裏を確認する
 
@@ -77,11 +77,27 @@ LEDのバックライトで輝かせること可能です。
 
 ![image](https://github.com/takashicompany/radialex/blob/master/images/build/IMG_8500.jpg?raw=true)
 
-### ボトムプレートの取り付け
-![image](https://github.com/takashicompany/radialex/blob/master/images/build/IMG_8500.jpg?raw=true)
-![image](https://github.com/takashicompany/radialex/blob/master/images/build/IMG_8500.jpg?raw=true)
+### 8. LEDの取り付け
 
-![image](https://github.com/takashicompany/radialex/blob/master/images/build/IMG_8.jpg?raw=true)
+![image](https://github.com/takashicompany/radialex/blob/master/images/build/IMG_8323.jpg?raw=true)
+
+![image](https://github.com/takashicompany/radialex/blob/master/images/build/IMG_8324.jpg?raw=true)
+
+![image](https://github.com/takashicompany/radialex/blob/master/images/build/IMG_8325.jpg?raw=true)
+
+![image](https://github.com/takashicompany/radialex/blob/master/images/build/IMG_8326.jpg?raw=true)
+
+![image](https://github.com/takashicompany/radialex/blob/master/images/build/IMG_8334.jpg?raw=true)
+
+![image](https://github.com/takashicompany/radialex/blob/master/images/build/IMG_8335.jpg?raw=true)
+
+### 9. ボトムプレートの取り付け
+![image](https://github.com/takashicompany/radialex/blob/master/images/build/IMG_8312.jpg?raw=true)
+
+![image](https://github.com/takashicompany/radialex/blob/master/images/build/IMG_8515.jpg?raw=true)
+
+![image](https://github.com/takashicompany/radialex/blob/master/images/build/IMG_8516.jpg?raw=true)
+
 ![image](https://github.com/takashicompany/radialex/blob/master/images/build/IMG_8.jpg?raw=true)
 ![image](https://github.com/takashicompany/radialex/blob/master/images/build/IMG_8.jpg?raw=true)
 ![image](https://github.com/takashicompany/radialex/blob/master/images/build/IMG_8.jpg?raw=true)
