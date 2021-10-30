@@ -1,6 +1,6 @@
 # Radialex
 
-![qmk](https://github.com/takashicompany/radialex/blob/master/images/01.jpg?raw=true)
+![qmk](https://github.com/takashicompany/radialex/blob/master/images/02.jpg?raw=true)
 
 Radialex(ラディアレックス)は一体型の40%のキーボードです。  
 放射状に規則的に配置されたキーレイアウトは手を自然な体勢のまま置くことができ、ホームポジションから最短距離で文字を打つことを可能としています。  
