@@ -6,7 +6,7 @@
 LEDのバックライトで輝かせることも可能です。
 また、MXソケットによるキースイッチの付替えにも対応しております。
 
-![qmk](https://github.com/takashicompany/radialex/blob/master/images/qmk.jpg?raw=true)
+![qmk](https://github.com/takashicompany/radialex/blob/master/images/01.jpg?raw=true)
 
 ## 組みてた方
 
