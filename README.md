@@ -108,7 +108,14 @@ Pro Microを取り付ける際に、ピンの位置を留意ください。(BLE 
 
 ### 8. ファームウェアの用意と確認
 
-https://github.com/qmk/qmk_firmware/pull/14949
+[Remap](https://remap-keys.app/catalog/IxsMPjShxAP0NbiQGbKQ/firmware)からVIAのファームウェアを書き込むことが可能です。
+
+![image](https://user-images.githubusercontent.com/4215759/139539025-4ada6038-2dd5-4387-ac68-e3610fac70aa.png)
+
+ファームウェアのソースコードは[こちら](https://github.com/qmk/qmk_firmware/pull/14949)です。
+
+VIAのファームウェアを書き込んだ状態で[Remap](https://remap-keys.app/)からキーマップを変更できます。
+![image](https://user-images.githubusercontent.com/4215759/139539096-175f39c2-4c4b-44d3-99c1-fb897aff14cb.png)
 
 ### 9. LEDの取り付け(オプション)
 
