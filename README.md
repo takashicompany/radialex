@@ -7,6 +7,9 @@ Radialex(ラディアレックス)は一体型の40%のキーボードです。
 キーボードの中央部にはシンボルとしてのキーやキーキャップを配置することができ、またバックライトLEDによるライトアップがされます。  
 オプションでMXソケットによるキースイッチの取り替えや、LED、コンスルーにも対応しており、使用するスタイルにあわせた組み立てが可能です。  
 
+<img src = "https://github.com/takashicompany/radialex/blob/master/images/01.jpg?raw=true" width="300">
+<img src = "https://github.com/takashicompany/radialex/blob/master/images/04.jpg?raw=true" width="300">
+
 ## 必要な部品
 
 ### キットに同梱されているもの
