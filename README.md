@@ -106,7 +106,11 @@ Pro Microを取り付ける際に、ピンの位置を留意ください。(BLE 
 下図のように取り付けられれば成功です。
 ![image](https://github.com/takashicompany/radialex/blob/master/images/build/IMG_8500.jpg?raw=true)
 
-### 8. LEDの取り付け(オプション)
+### 8. ファームウェアの用意と確認
+
+https://github.com/qmk/qmk_firmware/pull/14949
+
+### 9. LEDの取り付け(オプション)
 
 Radialexでは、2種類のLEDを搭載できます。  
 1-2番はバックライト(SK6812MINI-E)、3番から12番まではアンダーグロウ(WS2812B)となります。
@@ -131,7 +135,7 @@ Radialexでは、2種類のLEDを搭載できます。
 12箇所が光るかを確認します。
 ![image](https://github.com/takashicompany/radialex/blob/master/images/build/IMG_8518.jpg?raw=true)
 
-### 9. ボトムプレートの取り付け
+### 10. ボトムプレートの取り付け
 
 最後にボトムプレートを取り付けます。
 ![image](https://github.com/takashicompany/radialex/blob/master/images/build/IMG_8312.jpg?raw=true)
