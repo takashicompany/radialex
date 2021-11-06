@@ -11,6 +11,9 @@ Radialex(ラディアレックス)は一体型の40%のキーボードです。
 <img src = "https://github.com/takashicompany/radialex/blob/master/images/01.jpg?raw=true" width="300">
 <img src = "https://github.com/takashicompany/radialex/blob/master/images/04.jpg?raw=true" width="300">
 
+## Store
+[Booth](https://takashicompany.booth.pm/items/3394593)
+
 ## 必要な部品
 
 ### キットに同梱されているもの
