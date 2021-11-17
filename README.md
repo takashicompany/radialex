@@ -190,6 +190,23 @@ Radialexでは、2種類のLEDを搭載できます。
 トッププレート側は8mmのネジ、ボトムプレート側は4mmのネジでスペーサーを赤丸の位置に留めます。  
 <img src = "https://github.com/takashicompany/radialex/blob/master/images/build/IMG_8515b.jpg?raw=true" width="600">
 
-最後に滑り止めシールを貼って完成です。  
-打鍵時にガタつく場合はキーボード全体を軽く曲げると解消することがあります。  
-<img src = "https://github.com/takashicompany/radialex/blob/master/images/build/IMG_8516.jpg?raw=true" width="600">
+ボトムプレートを取り付けたら滑り止めシールを底面に取り付けます。
+<img src = "https://github.com/takashicompany/radialex/blob/master/images/build/IMG_8813.jpg?raw=true" width="600">
+
+赤丸の位置に貼るとグラつきが少ないです。  
+<img src = "https://github.com/takashicompany/radialex/blob/master/images/build/IMG_8812b.jpg?raw=true" width="600">
+
+### 11. キーキャップを取り付ける
+
+最後にキーキャップを取り付けて完成です。  
+<img src = "https://github.com/takashicompany/radialex/blob/master/images/01.jpg?raw=true" width="600">
+
+### 11. 自慢する
+完成しましたら、ぜひSNSなどに写真を投稿頂ければと思います。  
+Twitterのハッシュタグは`#Radialex`を付けていただけば幸いです。  
+キットを組み立てた感想や、キーボードを使った所感などをお待ちしております！  
+
+また、毎週日曜日の１9時より実施されている[#KEEP_PD](https://twitter.com/hashtag/KEEB_PD?f=live)に投稿頂くこともオススメです。  
+開催の告知は[@KEEB_PD](https://twitter.com/KEEB_PD)にて行われております。
+
+ご不明な点などございましたら、[@takashicompany](https://twitter.com/takashicompany)にメンションやDM頂ければと思います！
