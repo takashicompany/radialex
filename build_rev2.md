@@ -106,7 +106,28 @@ PCBにトッププレートを載せます。
 トッププレートにキースイッチを取り付け、はんだ付けもしくはMXソケットへの差し込みを行います。  
 <img src = "https://github.com/takashicompany/radialex/blob/master/images/build/IMG_8318.jpg?raw=true" width="600">
 
-### 6. 中央プレートの取り付け
+### 6. Pro Microの取り付け
+
+Pro Microを取り付けます。  
+PCBはコンスルーに対応しております。  
+<img src = "https://github.com/takashicompany/radialex/blob/master/images/build/IMG_9185.jpg?raw=true" width="600">
+
+Pro Microの取り付け位置を確認します。  
+<img src = "https://github.com/takashicompany/radialex/blob/master/images/build/IMG_9187.jpg?raw=true" width="600">
+
+
+PCBにピンヘッダ(又はコンスルー)を取り付けます。  
+ピンの指す位置をお間違えないようにお気をつけください。 
+<img src = "https://github.com/takashicompany/radialex/blob/master/images/build/IMG_9190.jpg?raw=true" width="600">
+
+PCBの表面にPro Microを取り付けます。  
+Pro Microを取り付ける際に、ピンの位置を留意ください。(BLE Micro Proなどで使えるように13ピンになっております)  
+<img src = "https://github.com/takashicompany/radialex/blob/master/images/build/IMG_8499.jpg?raw=true" width="600">
+
+下図のように取り付けられれば成功です。  
+<img src = "https://github.com/takashicompany/radialex/blob/master/images/build/IMG_8500.jpg?raw=true" width="600">
+
+### 7. 中央プレートの取り付け
 
 中央プレートは二種類あります。  
 <img src = "https://github.com/takashicompany/radialex/blob/master/images/build/IMG_8316.jpg?raw=true" width="600">
@@ -119,19 +140,6 @@ PCBの裏側から、スペーサーでネジと中央プレートを取り付�
 
 表面は下図のようになります。  
 <img src = "https://github.com/takashicompany/radialex/blob/master/images/build/IMG_8494.jpg?raw=true" width="600">
-
-### 7. Pro Microの取り付け
-
-Pro Microを取り付けます。  
-PCBはコンスルーに対応しております。  
-<img src = "https://github.com/takashicompany/radialex/blob/master/images/build/IMG_8498.jpg?raw=true" width="600">
-
-PCBの裏面にPro Microを取り付けます。  
-Pro Microを取り付ける際に、ピンの位置を留意ください。(BLE Micro Proなどで使えるように13ピンになっております)  
-<img src = "https://github.com/takashicompany/radialex/blob/master/images/build/IMG_8499.jpg?raw=true" width="600">
-
-下図のように取り付けられれば成功です。  
-<img src = "https://github.com/takashicompany/radialex/blob/master/images/build/IMG_8500.jpg?raw=true" width="600">
 
 ### 8. ファームウェアの用意と確認
 
