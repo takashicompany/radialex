@@ -1,9 +1,8 @@
 # Radialex Rev2の組み立て方
 
-## Rev1との違い
+## [Rev1](https://github.com/takashicompany/radialex/blob/master/build_rev2.md)との違い
 - Pro Microの取り付け位置をPCBの表面にしています。
-- 一部の説明画像はRev1のものを流用しておりますが、Pro Microの取り付け以外はRev2も同様に進めていただければ問題ありません。
-
+- 一部の説明画像はRev1のものを流用しておりますが、Pro Microの取り付け以外の工程は同様に進めていただければ問題ございません。
 ## 必要な部品
 
 ### キットに同梱されているもの
