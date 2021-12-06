@@ -117,15 +117,19 @@ Pro Microの取り付け位置を確認します。
 
 
 PCBにピンヘッダ(又はコンスルー)を取り付けます。  
-ピンの指す位置をお間違えないようにお気をつけください。 
+穴は13個ありますが、Pro Microの取り付け穴は12個なので、1つ余ります。  
+Pro Microの印字とPCBの印字が合うように挿してください。  
 <img src = "https://github.com/takashicompany/radialex/blob/master/images/build/IMG_9190.jpg?raw=true" width="600">
 
-PCBの表面にPro Microを取り付けます。  
-Pro Microを取り付ける際に、ピンの位置を留意ください。(BLE Micro Proなどで使えるように13ピンになっております)  
-<img src = "https://github.com/takashicompany/radialex/blob/master/images/build/IMG_8499.jpg?raw=true" width="600">
+ピンヘッダ(コンスルー)にPro Microを挿してはんだ付けをします。  
+<img src = "https://github.com/takashicompany/radialex/blob/master/images/build/IMG_9192.jpg?raw=true" width="600">
 
-下図のように取り付けられれば成功です。  
-<img src = "https://github.com/takashicompany/radialex/blob/master/images/build/IMG_8500.jpg?raw=true" width="600">
+ピンの余った部分はニッパーで切ります。    
+<img src = "https://github.com/takashicompany/radialex/blob/master/images/build/IMG_9194.jpg?raw=true" width="600">
+
+ピンヘッダの場合は裏面からはんだ付けを行います。  
+(コンスルーの場合は、PCBとのはんだ付けをしなくて大丈夫です)
+<img src = "https://github.com/takashicompany/radialex/blob/master/images/build/IMG_9198.jpg?raw=true" width="600">
 
 ### 7. 中央プレートの取り付け
 
@@ -198,7 +202,7 @@ Radialexでは、2種類のLEDを搭載できます。
 最後にキーキャップを取り付けて完成です。  
 <img src = "https://github.com/takashicompany/radialex/blob/master/images/01.jpg?raw=true" width="600">
 
-### 11. 自慢する
+### 12. 自慢する
 完成しましたら、ぜひSNSなどに写真を投稿頂ければと思います。  
 Twitterのハッシュタグは`#Radialex`を付けていただけば幸いです。  
 キットを組み立てた感想や、キーボードを使った所感などをお待ちしております！  
