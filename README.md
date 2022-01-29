@@ -23,7 +23,7 @@ Radialex(ラディアレックス)は一体型の40%のキーボードです。
 見分け方 : Rev1はPro Microを底面側に取り付けるため、ボトムプレートに切り抜きがあります。  
 <img src = "https://github.com/takashicompany/radialex/blob/master/images/build/IMG_8312.jpg?raw=true" width="400">
 
-### [Rev2](https://github.com/takashicompany/radialex/blob/master/build_rev2.md)
+### [Rev2(遊舎工房)](https://github.com/takashicompany/radialex/blob/master/build_rev2.md)
 
 見分け方 : Rev2はPro Microを上面に取り付けるため、ボトムプレートに切り抜きがありません。
 <img src = "https://github.com/takashicompany/radialex/blob/master/images/build/IMG_9181.jpg?raw=true" width="400">
