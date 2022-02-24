@@ -12,7 +12,8 @@ Radialex(ラディアレックス)は一体型の40%のキーボードです。
 <img src = "https://github.com/takashicompany/radialex/blob/master/images/04.jpg?raw=true" width="300">
 
 ## Store
-[Booth](https://takashicompany.booth.pm/items/3394593)
+- [遊舎工房](https://shop.yushakobo.jp/products/3350)
+- [Booth](https://takashicompany.booth.pm/items/3394593)
 
 ## 必要な部品
 
@@ -93,7 +94,14 @@ Rev2以降の組み立て方は以下になります。
 表面実装型のダイオードを使用する場合は表面にはんだが漏れないようにマスキングテープで塞ぎます。  
 <img src = "https://github.com/takashicompany/radialex/blob/master/images/build/IMG_8010.jpg?raw=true" width="600">
 
-はんだ付けを行います。全部で45箇所となります。  
+表面実装型ダイオードのはんだ付けは以下の動画を参考にすると良いかと思います。(PCBが別のキーボードになっておりますが、ご了承ください). 
+
+https://user-images.githubusercontent.com/4215759/126895350-43ae4cd4-408b-4ff4-ab5c-2903e0420978.mov
+
+PCBのダイオードのはんだづけ箇所の片方にはんだを乗せておき(予備はんだ)、ピンセットでダイオードを持ちながら予備はんだを溶かしながらダイオードをはんだづけします。  
+片方のはんだづけが終わったら、動画と同じく反対側をはんだづけしましょう。
+
+全部で45箇所となります。  
 <img src = "https://github.com/takashicompany/radialex/blob/master/images/build/IMG_8013.jpg?raw=true" width="600">
 
 ### 3. 中央のキーのMXソケットの取り付け
