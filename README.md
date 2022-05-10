@@ -8,8 +8,9 @@ Radialex(ラディアレックス)は一体型の40%のキーボードです。
 オプションでMXソケットによるキースイッチの取り替えや、LED、コンスルーにも対応しており、使用するスタイルにあわせた組み立てが可能です。  
 また、ファームウェアがVIA(Remap)に対応しているため、Webブラウザからキーマップを書き換えることが可能です。
 
-<img src = "https://github.com/takashicompany/radialex/blob/master/images/01.jpg?raw=true" width="300">
-<img src = "https://github.com/takashicompany/radialex/blob/master/images/04.jpg?raw=true" width="300">
+<img src = "https://github.com/takashicompany/radialex/blob/master/images/15.jpg?raw=true" height="300">
+<img src = "https://github.com/takashicompany/radialex/blob/master/images/19.jpg?raw=true" height="300">
+<img src = "https://github.com/takashicompany/radialex/blob/master/images/23.jpg?raw=true" height="300">
 
 ## Store
 - [遊舎工房](https://shop.yushakobo.jp/products/3350)
