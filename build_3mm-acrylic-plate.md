@@ -1,6 +1,10 @@
 # アクリル3mmプレート
 
+<img src="https://github.com/takashicompany/radialex/blob/master/images/25.jpg?raw=true" width="600px"/>
 
+[遊舎工房さん](https://shop.yushakobo.jp/)の[自作キーボードオープンソースPCB](https://shop.yushakobo.jp/products/oss_pcb?variant=44403999539431)と[キーボードアクリルプレートサービス](https://shop.yushakobo.jp/collections/services/products/keyboard_acrylic_plate?variant=44150778986727)を利用することで、お好きなカラーのRadialexを作ることが可能です。
+
+アクリルケースの.aiデータは[こちら](https://github.com/takashicompany/radialex/raw/master/case/radialex-yusha-Laser_A4.ai)になります。
 
 ### キット相当の部品
 |部品|必要個数|リンクと値段|備考|
@@ -10,7 +14,7 @@
 |[ダイオード](https://shop.yushakobo.jp/collections/all-keyboard-parts/Diode)|45|¥220|アクリル3mmプレートの場合は[リードタイプ](https://shop.yushakobo.jp/collections/all-keyboard-parts/products/a0800di-01-100)、[SMDタイプ](https://shop.yushakobo.jp/collections/all-keyboard-parts/products/a0800di-02-100)のどちらにも対応。|
 |[m2スペーサー(7mm)](https://shop.yushakobo.jp/collections/all-keyboard-parts/products/a0800c2?variant=37665435222177)|8|¥396||
 |[m2ネジ(5mm)](https://shop.yushakobo.jp/collections/all-keyboard-parts/products/a0800n2?variant=37665432993953)|12|¥220||
-|m2ネジ([8mm](https://shop.yushakobo.jp/collections/all-keyboard-parts/products/a0800n2?variant=37665433026721) or 10mm)|4|¥220|8mmネジを使った場合は[中央プレートの取り付け](https://github.com/takashicompany/radialex#7-%E4%B8%AD%E5%A4%AE%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88%E3%81%AE%E5%8F%96%E3%82%8A%E4%BB%98%E3%81%91)は1枚のみ。10mmのネジで2枚取り付け可能|
+|m2ネジ([8mm](https://shop.yushakobo.jp/collections/all-keyboard-parts/products/a0800n2?variant=37665433026721) or 10mm)|4|¥220|8mmネジを使った場合は[中央プレートの取り付け](https://github.com/takashicompany/radialex#7-%E4%B8%AD%E5%A4%AE%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88%E3%81%AE%E5%8F%96%E3%82%8A%E4%BB%98%E3%81%91)は1枚のみ。10mmのネジで2枚取り付け可能。|
 |[タクタイルスイッチ 2pin](https://shop.yushakobo.jp/collections/all-keyboard-parts/products/a0800ts-01-1)|1||¥11||
 |[Kailh スイッチソケット(MX用)](https://shop.yushakobo.jp/collections/all-keyboard-parts/products/a01ps)|1~45|¥187|最低1つは必要。全てのキースイッチをソケット化する場合は45個必要|
 |[ウレタンクッション](https://shop.yushakobo.jp/products/a0800ur-01-6?)|6|¥132|6個でも正しく貼れば安定しますが、不安な方は2セット買っておくことを推奨します。|
@@ -29,3 +33,12 @@
 |[コンスルー](https://shop.yushakobo.jp/products/31)|2|取り付けるとMCU(Pro Micro)をPCBから取り外すことが可能です。PCBは12pinと13pinに対応しておりますのでMCUのピン数にあわせて選択してください。|
 |[LED(SK6812MINI-E)](https://shop.yushakobo.jp/collections/all-keyboard-parts/products/sk6812mini-e-10)|2|中央のキーとキーボード手前側の穴をバックライトで光らせることができます。|
 |[LED(WS2812B)](https://shop.yushakobo.jp/collections/all-keyboard-parts/products/a0800ws-01-10)|10|アンダーグロウライトとしてキーボードの底面を光らせることができます。|
+
+### 組み立て方
+
+基本的には[通常版のRadialexの組み立て方](https://github.com/takashicompany/radialex#1-pcb%E3%81%AE%E8%A1%A8%E8%A3%8F%E3%82%92%E7%A2%BA%E8%AA%8D%E3%81%99%E3%82%8B)と同様です。
+
+ご留意いただきたい点としましては、低コスト化のためボトムプレートの一部を
+<img src="https://github.com/takashicompany/radialex/blob/master/images/build/IMG_0974.jpg?raw=true" width="600px"/>
+ご留意いただきたい点としましては、低コスト化のためボトムプレートのいち部をｋ
+ご留意いただきたい点としましては、低コスト化のためボトムプレートのいち部を
