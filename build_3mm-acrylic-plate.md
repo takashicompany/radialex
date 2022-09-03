@@ -1,4 +1,4 @@
-# アクリル3mmプレート
+# アクリル3mmケースバージョン
 
 
 [遊舎工房さん](https://shop.yushakobo.jp/)の[自作キーボードオープンソースPCB](https://shop.yushakobo.jp/products/oss_pcb?variant=44403999539431)と[キーボードアクリルプレートサービス](https://shop.yushakobo.jp/collections/services/products/keyboard_acrylic_plate?variant=44150778986727)を利用することで、お好きなカラーのRadialexを作ることが可能です。
