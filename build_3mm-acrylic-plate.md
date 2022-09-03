@@ -1,8 +1,9 @@
 # アクリル3mmプレート
 
-<img src="https://github.com/takashicompany/radialex/blob/master/images/25.jpg?raw=true" width="600px"/>
 
 [遊舎工房さん](https://shop.yushakobo.jp/)の[自作キーボードオープンソースPCB](https://shop.yushakobo.jp/products/oss_pcb?variant=44403999539431)と[キーボードアクリルプレートサービス](https://shop.yushakobo.jp/collections/services/products/keyboard_acrylic_plate?variant=44150778986727)を利用することで、お好きなカラーのRadialexを作ることが可能です。
+
+<img src="https://github.com/takashicompany/radialex/blob/master/images/25.jpg?raw=true" width="600px"/>
 
 アクリルケースの.aiデータは[こちら](https://github.com/takashicompany/radialex/raw/master/case/radialex-yusha-Laser_A4.ai)になります。
 
@@ -38,7 +39,7 @@
 
 基本的には[通常版のRadialexの組み立て方](https://github.com/takashicompany/radialex#1-pcb%E3%81%AE%E8%A1%A8%E8%A3%8F%E3%82%92%E7%A2%BA%E8%AA%8D%E3%81%99%E3%82%8B)と同様です。
 
-ご留意いただきたい点としましては、低コスト化のためボトムプレートの一部を
+ご留意いただきたい点としましては、低コスト化のためボトムプレートの一部をくり抜いております。  
+使用には問題ないかと思いますが、通常版とは打鍵感などが異なる可能性があります。  
 <img src="https://github.com/takashicompany/radialex/blob/master/images/build/IMG_0974.jpg?raw=true" width="600px"/>
-ご留意いただきたい点としましては、低コスト化のためボトムプレートのいち部をｋ
-ご留意いただきたい点としましては、低コスト化のためボトムプレートのいち部を
+
