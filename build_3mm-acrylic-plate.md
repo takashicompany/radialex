@@ -38,8 +38,15 @@
 ### 組み立て方
 
 基本的には[通常版のRadialexの組み立て方](https://github.com/takashicompany/radialex#1-pcb%E3%81%AE%E8%A1%A8%E8%A3%8F%E3%82%92%E7%A2%BA%E8%AA%8D%E3%81%99%E3%82%8B)と同様です。
+(一部部品は、通常版と異なります。)
+
+[Daihuku Keyboard](https://www.youtube.com/c/DaihukuKeyboard)さんの[自作キーボード作ってみた Radialex編](https://www.youtube.com/watch?v=C8Qqe03oXgY)をご覧になるとより理解が深まるかと思います。
 
 ご留意いただきたい点としましては、低コスト化のためボトムプレートの一部をくり抜いております。  
 使用には問題ないかと思いますが、通常版とは打鍵感などが異なる可能性があります。  
 <img src="https://github.com/takashicompany/radialex/blob/master/images/build/IMG_0974.jpg?raw=true" width="600px"/>
+
+### 免責事項
+
+当キーボードビルドガイドにて組み立てた際に生じた不利益や責任は組み立てたご自身に帰属します。
 
