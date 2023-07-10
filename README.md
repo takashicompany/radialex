@@ -20,6 +20,12 @@ Radialex(ラディアレックス)は一体型の40%のキーボードです。
 ご自由にご利用ください。  
 尚、ガーバーデータとケースのデータをご自身で利用された際に発生した不都合に関しての責任は負いかねます。
 
+### ガーバーデータやケースを利用した例
+
+[@morecat_lab
+](https://twitter.com/morecat_lab)さんの[3Dプリンター製のケース](https://github.com/kuwatay/radialex-3dprint-case)  
+<img src = "https://github.com/kuwatay/radialex-3dprint-case/raw/main/Images/radialex01.jpg" width = "600px"/>
+
 
 ## 必要な部品
 
